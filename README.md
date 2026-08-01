@@ -11,8 +11,10 @@ Análise exploratória de dados de vendas de um marketplace brasileiro, usando P
 
 ## Como rodar
 
+```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/analise.ipynb
+```
 
 ## Dados
 
