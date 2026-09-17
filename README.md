@@ -2,6 +2,8 @@
 
 Análise exploratória de dados de vendas de um marketplace brasileiro, usando Python (pandas, matplotlib).
 
+> Foco em exploração e visualização com Python — dataset público Olist (100 mil pedidos), sem SQL nem BI.
+
 ## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
